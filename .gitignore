@@ -1,6 +1,10 @@
 # Adding config.py file.
 config.py
 
+#ignore
+~$Powerpoint Run-Through per Slide .docx
+~$reen Shot 2020-08-04 at 8.31.04 PM.docx
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
