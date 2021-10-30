@@ -1,5 +1,5 @@
 # Return-Rate-Researchers---Project-I
-Note: Please reference the file within the repository for a complete README file that include our graph images: Return Rate Researchers: Project I Analysis
+Note: Please reference the file within the repository for a complete README file that includes our graph images: Return Rate Researchers: Project I Analysis
 
 October 29, 2021
 Emerson College Bootcamp, Data Analytics
