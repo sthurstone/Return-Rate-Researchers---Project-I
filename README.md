@@ -56,12 +56,15 @@ __Supportive figures were generated as follow:__
 
 Rebecca concentrated on developing visualizations through TwitterÕs API and was able to reference a specific time period of activity and engagement on Twitter (9:00-10:00PM).  Most people use Twitter either on the App (phone), actual webpage (Twitter.com), others are far and few in-between. The most engaged are those of the Millennial and Gen-Z generations. 
 
+<h2>social-influence-on-shopping.csv</h2>
+
 ![image](https://user-images.githubusercontent.com/88587843/139534724-3b9fb93c-6342-4ac1-a306-84caeddc26ad.png)
 ![image](https://user-images.githubusercontent.com/88587843/139534731-2d52c63a-d0af-4613-8ff9-b7ad037e8be6.png)
 
-<h2>social-influence-on-shopping.csv</h2>
-
 Through development, Tran was able to deduce that the majority of social media influence on online shopping was produced via Instagram and Facebook however, the majority of participants in data collection indicated that they were not influenced by target advertisements and submitted their vote as ÒnoneÓ. Additionally, her finding indicated that the majority of individuals included in the data set were white and either middle class or middle/lower class; which was interesting given that the most popular vote for being influenced by targeted Ads was Ònone,Ó indicating that perhaps the individuals participating in the survey were primarily focused on saving or household bills. 
+
+
+<h2> KAG_conversion_data.csv </h2>
 
 ![image](https://user-images.githubusercontent.com/88587843/139534772-ba357650-1068-4f35-95d4-848709f7abca.png)
 ![image](https://user-images.githubusercontent.com/88587843/139534800-8a3c5d06-f64c-47ee-baf2-f843ac035043.png)
@@ -69,14 +72,15 @@ Through development, Tran was able to deduce that the majority of social media i
 ![image](https://user-images.githubusercontent.com/88587843/139535039-a977fd65-4e1f-479b-9c30-7bbe87a838a4.png)
 ![image](https://user-images.githubusercontent.com/88587843/139535044-b812a1b1-48d6-4271-ad48-74455e830ffa.png)
 
-<h2> KAG_conversion_data.csv </h2>
-
 Hinley concentrated on defining the demographics of participants surveyed with regard to Facebook Advertisements and the influence aforementioned had on return of investment.  Via development it was concluded that gender played no influence in terms of Ad engagement or purchases and that the more a company invests into itÕs marketing campaigns the larger to return on investment typically is. 
+
+
+<h2>Facebook_Ads_2.csv</h2>
 
 ![image](https://user-images.githubusercontent.com/88587843/139535056-d3195eca-b150-4e53-abf2-e80518815151.png)
 
-<h2>Facebook_Ads_2.csv</h2>
 ![image](https://user-images.githubusercontent.com/88587843/139535061-b23d3b42-d760-4eae-8cee-6ee9646dbd82.png)
+
 ![image](https://user-images.githubusercontent.com/88587843/139535071-3fb4b101-bbfa-4c5d-ab3a-660b8887b358.png)
 
 <h2>Social_Network_Ads(1).csv</h2>
