@@ -1,4 +1,5 @@
 # Return-Rate-Researchers---Project-I
+Note: Please reference the file within the repository for a complete README file that include our graph images: Return Rate Researchers: Project I Analysis
 
 October 29, 2021
 Emerson College Bootcamp, Data Analytics
@@ -6,7 +7,7 @@ Group Name: Return Rates Researchers
 Members: Rebecca Melo, Ngoc-Tran Nguyen, Hinley Fung and Stephanie Thurstone 
 Project I Analysis: Advertising Content and Consumer Engagement on Social Media
 Overview 
-The journey of delving into the world of social media targeted marketing campaigns initially began as the group collectively agreed how invasive technological devices and social media platforms are in today’s day and age; “big brother is always watching”. Through discussion, it was determined that there was a common interest to determine why and how we are targeted by so many Ads throughout any given day on our phones and other devices. Therefore, our hypothesis was drafted and we began defining advertisement engagement based on demographics through social media platforms and identifying the highest and lowest return rates and economic effect of targeted marketing. 
+The journey of delving into the world of social media targeted marketing campaigns initially began as the group collectively agreed how invasive technological devices and social media platforms are in today√ïs day and age; √íbig brother is always watching√ì. Through discussion, it was determined that there was a common interest to determine why and how we are targeted by so many Ads throughout any given day on our phones and other devices. Therefore, our hypothesis was drafted and we began defining advertisement engagement based on demographics through social media platforms and identifying the highest and lowest return rates and economic effect of targeted marketing. 
 _____________________________________________________________________________________________
 The Data 
 The following are the sources mined for data analysis to support our hypothesis. 
@@ -33,13 +34,13 @@ Supportive figures were generated as follow:
 
 
 
-Rebecca concentrated on developing visualizations through Twitter’s API and was able to reference a specific time period of activity and engagement on Twitter (9:00-10:00PM).  Most people use Twitter either on the App (phone), actual webpage (Twitter.com), others are far and few in-between. The most engaged are those of the Millennial and Gen-Z generations. 
+Rebecca concentrated on developing visualizations through Twitter√ïs API and was able to reference a specific time period of activity and engagement on Twitter (9:00-10:00PM).  Most people use Twitter either on the App (phone), actual webpage (Twitter.com), others are far and few in-between. The most engaged are those of the Millennial and Gen-Z generations. 
 
 
 
  
 social-influence-on-shopping.csv
-Through development, Tran was able to deduce that the majority of social media influence on online shopping was produced via Instagram and Facebook however, the majority of participants in data collection indicated that they were not influenced by target advertisements and submitted their vote as “none”. Additionally, her finding indicated that the majority of individuals included in the data set were white and either middle class or middle/lower class; which was interesting given that the most popular vote for being influenced by targeted Ads was “none,” indicating that perhaps the individuals participating in the survey were primarily focused on saving or household bills. 
+Through development, Tran was able to deduce that the majority of social media influence on online shopping was produced via Instagram and Facebook however, the majority of participants in data collection indicated that they were not influenced by target advertisements and submitted their vote as √ínone√ì. Additionally, her finding indicated that the majority of individuals included in the data set were white and either middle class or middle/lower class; which was interesting given that the most popular vote for being influenced by targeted Ads was √ínone,√ì indicating that perhaps the individuals participating in the survey were primarily focused on saving or household bills. 
 
 
 
@@ -51,7 +52,7 @@ Through development, Tran was able to deduce that the majority of social media i
 
 
 KAG_conversion_data.csv
-Hinley concentrated on defining the demographics of participants surveyed with regard to Facebook Advertisements and the influence aforementioned had on return of investment.  Via development it was concluded that gender played no influence in terms of Ad engagement or purchases and that the more a company invests into it’s marketing campaigns the larger to return on investment typically is. 
+Hinley concentrated on defining the demographics of participants surveyed with regard to Facebook Advertisements and the influence aforementioned had on return of investment.  Via development it was concluded that gender played no influence in terms of Ad engagement or purchases and that the more a company invests into it√ïs marketing campaigns the larger to return on investment typically is. 
 
 Facebook_Ads_2.csv
 
